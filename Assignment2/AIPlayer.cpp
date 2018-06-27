@@ -36,7 +36,7 @@ int AIPlayer::getMove()
 		INT_MAX,
 		true);
 
-	ret = rand() % 8;
+	//ret = rand() % 8;
 
 	return ret;
 }
