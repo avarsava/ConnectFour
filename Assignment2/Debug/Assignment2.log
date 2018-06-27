@@ -1,0 +1,9 @@
+﻿  HumanPlayer.cpp
+  ConnectFour.cpp
+c:\users\myself\dropbox\schoolwork\school\cosc4f00\a2\assignment2\assignment2\connectfour.cpp(112): warning C4101: 'winner': unreferenced local variable
+  AIPlayer.cpp
+  Generating Code...
+c:\users\myself\dropbox\schoolwork\school\cosc4f00\a2\assignment2\assignment2\aiplayer.cpp(64): warning C4715: 'AIPlayer::trimTree': not all control paths return a value
+c:\users\myself\dropbox\schoolwork\school\cosc4f00\a2\assignment2\assignment2\connectfour.cpp(90): warning C4715: 'run': not all control paths return a value
+  Assignment2.vcxproj -> C:\Users\Myself\Dropbox\Schoolwork\School\COSC4F00\A2\Assignment2\Debug\Assignment2.exe
+  Assignment2.vcxproj -> C:\Users\Myself\Dropbox\Schoolwork\School\COSC4F00\A2\Assignment2\Debug\Assignment2.pdb (Partial PDB)
